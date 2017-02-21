@@ -2,7 +2,7 @@
 layout: null
 ---
 {
-    "name": "Das Infromatiker Rezeptbuch",
+    "name": "{{ site.title }}",
     "icons": [
         {
             "src": "{{'/assets/favicons/android-chrome-192x192.png' | relative_url}}",
