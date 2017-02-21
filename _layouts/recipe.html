@@ -1,0 +1,36 @@
+---
+layout: default
+---
+<article class="recipe">
+  <h1 class="recipe-title">{{ page.title | escape }}</h1>
+  
+  {% if page.ingredients %}
+  <div class="recipe-ingredients">
+    <h2>Zutaten</h2>
+    <ul>      
+      {% for ingredient_hash in page.ingredients %}
+      {% if ingredient_hash %}
+      <li>
+        {% for ingredient in ingredient_hash %}
+          {% for amount_hash in ingredient[1] %}
+          {% for amount in amount_hash %}
+            <span class="{{ amount[0] }}">{{ amount[1] }}</span>
+          {% endfor %}
+          {% endfor %}
+          <span class="ingredient">{{ ingredient[0] }}</span>
+        {% endfor %}
+      </li>
+      {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+
+  {% if page.content != '' %}
+  <div class="recipe-description">
+    <h2>Beschreibung</h2>
+    {{ content }}
+  </div>
+  {% endif %}
+
+</article>
