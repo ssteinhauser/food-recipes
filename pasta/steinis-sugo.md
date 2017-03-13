@@ -1,8 +1,12 @@
 ---
 title: Steini's Sugo
 layout: recipe
+time:
+  - amount: 45
+  - unit: min
+portion: 4
 ingredients:
-  - Zwiebel: 
+  - Zwiebel:
     - amount: 1
     - unit: Stk
   - Faschiertes (Schwein + Ring):
@@ -31,10 +35,10 @@ ingredients:
   - Ketchup:
 ---
 Die gehackte Zwiebel anrösten.
-Anschließend das gemischtete Faschierte (80% Rind + 20% Schwein) leicht anrösten.
-Das Tomatenmark unterrühtren und mit 0.5 l Wasser aufgießen.
+Anschließend das gemischte Faschierte (80% Rind + 20% Schwein) leicht anrösten.
+Das Tomatenmark unterrühren und mit 0.5 l Wasser aufgießen.
 Mit Salz, Pfeffer, Knoblauch, Zucker, Rosmarin, Majoran, Tymian würzen.
 Die gehackten Tomaten dazu geben und dann 30 min. köcheln lassen.
 Zuletzt mit etwas Ketchup abschmecken.
 
-Reicht für 1x Pasta und 1x Lasagne für 4 Personen.
+Reicht für 1x Pasta und 1x Lasagne.

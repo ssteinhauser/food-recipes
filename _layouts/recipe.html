@@ -3,11 +3,29 @@ layout: default
 ---
 <article class="recipe">
   <h1 class="recipe-title">{{ page.title | escape }}</h1>
-  
+
+  {% if page.time %}
+  <div class="recipe-time">
+    <h2>Dauer</h2>
+    <ul>
+      <li>{{ page.time[0].amount }} {{ page.time[1].unit }}</li>
+    </ul>
+  </div>
+  {% endif %}
+
+  {% if page.portion %}
+  <div class="recipe-portion">
+    <h2>Menge</h2>
+    <ul>
+      <li>{{ page.portion }} Portion(en)</li>
+    </ul>
+  </div>
+  {% endif %}
+
   {% if page.ingredients %}
   <div class="recipe-ingredients">
     <h2>Zutaten</h2>
-    <ul>      
+    <ul>
       {% for ingredient_hash in page.ingredients %}
       {% if ingredient_hash %}
       <li>
