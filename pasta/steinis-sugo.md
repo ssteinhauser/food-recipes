@@ -9,12 +9,12 @@ ingredients:
   - Zwiebel:
     - amount: 1
     - unit: Stk
-  - Faschiertes (Schwein + Ring):
+  - Faschiertes (Schwein + Rind):
     - amount: 60
     - unit: dkg
   - Tomatenmark:
     - amount: 1
-    - unit: Tupe
+    - unit: Tube
   - Gehackte Tomaten:
     - amount: 1
     - unit: Dose
@@ -31,13 +31,13 @@ ingredients:
   - Pfeffer:
   - Rosmarin:
   - Majoran:
-  - Tymian:
+  - Thymian:
   - Ketchup:
 ---
 Die gehackte Zwiebel anrösten.
 Anschließend das gemischte Faschierte (80% Rind + 20% Schwein) leicht anrösten.
 Das Tomatenmark unterrühren und mit 0.5 l Wasser aufgießen.
-Mit Salz, Pfeffer, Knoblauch, Zucker, Rosmarin, Majoran, Tymian würzen.
+Mit Salz, Pfeffer, Knoblauch, Zucker, Rosmarin, Majoran, Thymian würzen.
 Die gehackten Tomaten dazu geben und dann 30 min. köcheln lassen.
 Zuletzt mit etwas Ketchup abschmecken.
 
