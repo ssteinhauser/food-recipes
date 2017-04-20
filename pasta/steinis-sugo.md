@@ -2,38 +2,39 @@
 title: Steini's Sugo
 layout: recipe
 time:
-  - amount: 45
-  - unit: min
+- amount: 45
+- unit: min
 portion: 4
 ingredients:
-  - Zwiebel:
-    - amount: 1
-    - unit: Stk
-  - Faschiertes (Schwein + Rind):
-    - amount: 60
-    - unit: dkg
-  - Tomatenmark:
-    - amount: 1
-    - unit: Tube
-  - Gehackte Tomaten:
-    - amount: 1
-    - unit: Dose
-  - Wasser:
-    - amount: 500
-    - unit: ml
-  - Knoblauch:
-    - amount: 1
-    - unit: Stk
-  - Zucker:
-    - amount: 1
-    - unit: TL
-  - Salz:
-  - Pfeffer:
-  - Rosmarin:
-  - Majoran:
-  - Thymian:
-  - Ketchup:
+- Zwiebel:
+  - amount: 1
+  - unit: Stk
+- Faschiertes (Schwein + Rind):
+  - amount: 60
+  - unit: dkg
+- Tomatenmark:
+  - amount: 1
+  - unit: Tube
+- Gehackte Tomaten:
+  - amount: 1
+  - unit: Dose
+- Wasser:
+  - amount: 500
+  - unit: ml
+- Knoblauch:
+  - amount: 1
+  - unit: Stk
+- Zucker:
+  - amount: 1
+  - unit: TL
+- Salz: 
+- Pfeffer: 
+- Rosmarin: 
+- Majoran: 
+- Thymian: 
+- Ketchup: 
 ---
+
 Die gehackte Zwiebel anrösten.
 Anschließend das gemischte Faschierte (80% Rind + 20% Schwein) leicht anrösten.
 Das Tomatenmark unterrühren und mit 0.5 l Wasser aufgießen.

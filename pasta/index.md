@@ -3,6 +3,7 @@ title: Pasta
 layout: page
 show_in_nav: true
 ---
+
 * [Mexitalian Eintopf]({{ site.baseurl }}{% link pasta/mexitalian.md %})
 
 ## Sugo

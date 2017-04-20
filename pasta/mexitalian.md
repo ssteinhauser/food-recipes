@@ -2,36 +2,37 @@
 title: Mexitalian Eintopf
 layout: recipe
 time:
-  - amount: 30
-  - unit: min
+- amount: 30
+- unit: min
 portion: 4
 ingredients:
-  - Nudeln:
-    - amount: 500
-    - unit: g
-  - Tomatensugo:
-    - amount: 650
-    - unit: g
-  - Zwiebel:
-    - amount: 1
-    - unit: Stk
-  - Bohnen:
-    - amount: 350
-    - unit: g
-  - Mais:
-    - amount: 350
-    - unit: g
-  - Speck:
-    - amount: 50
-    - unit: g
-  - Öl:
-  - Salz:
-  - (Cayenne-)Pfeffer:
-  - Oregano:
-  - Majoran:
-  - Muskatnuss:
-  - Parmesan:
+- Nudeln:
+  - amount: 500
+  - unit: g
+- Tomatensugo:
+  - amount: 650
+  - unit: g
+- Zwiebel:
+  - amount: 1
+  - unit: Stk
+- Bohnen:
+  - amount: 350
+  - unit: g
+- Mais:
+  - amount: 350
+  - unit: g
+- Speck:
+  - amount: 50
+  - unit: g
+- Öl: 
+- Salz: 
+- "(Cayenne-)Pfeffer": 
+- Oregano: 
+- Majoran: 
+- Muskatnuss: 
+- Parmesan: 
 ---
+
 Zwiebel und Speck in kleine Würfel schneiden, Bohnen und Mais gründlich abwaschen.
 
 Nudeln in Salzwasser kochen und anschließend abseihen.
